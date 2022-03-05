@@ -2,7 +2,7 @@
 
 namespace KataFizzBuzz
 {
-    class Program
+    class FizzBuzz
     {
         static void Main(string[] args)
         {
